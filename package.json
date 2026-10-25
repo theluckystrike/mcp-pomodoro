@@ -1,5 +1,6 @@
 {
   "name": "mcp-pomodoro",
+  "repository": {"type": "git", "url": "theluckystrike/mcp-pomodoro.git"},
   "version": "1.0.0",
   "description": "MCP server: pomodoro",
   "type": "module",
